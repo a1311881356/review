@@ -6,11 +6,11 @@
 
 ### 1.1、Spring 5.2.3的17个jar包
 
-![image-20200603170457523](README.assets/image-20200603170457523.png)
+![image-20200603170457523](./README.assets/image-20200603170457523.png)
 
 ### 1.2、Spring架构图
 
-![image-20200603171918410](README.assets/image-20200603171918410.png)
+![image-20200603171918410](./README.assets/image-20200603171918410.png)
 
 ### 1.3、Spring 各个jar的作用
 
